@@ -42,15 +42,15 @@ class CustomBottomNavigation extends StatelessWidget {
       items: const [
         BottomNavigationBarItem(
           icon: Icon( Icons.home_max ),
-          label: 'Inicio'
+          label: 'Start'
         ),
         BottomNavigationBarItem(
           icon: Icon( Icons.thumbs_up_down_outlined ),
-          label: 'Populares'
+          label: 'Populars'
         ),
         BottomNavigationBarItem(
           icon: Icon( Icons.favorite_outline ),
-          label: 'Favoritos'
+          label: 'Favorites'
         ),
       ]
     );

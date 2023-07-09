@@ -42,7 +42,7 @@ class _Recomendations extends StatelessWidget {
     return Container(
       margin: const EdgeInsetsDirectional.only(bottom: 50),
       child: MovieHorizontalListview(
-        title: 'Recomendaciones',
+        title: 'Recommended',
         movies: movies
       ),
     );

@@ -15,7 +15,7 @@ class ActorMovieDbDatasource extends ActorsDatasource {
     baseUrl: 'https://api.themoviedb.org/3',
     queryParameters: {
       'api_key': Environment.theMovieDbKey,
-      'language': 'es-MX'
+      'language': 'en-US'
     }
   ));
 
