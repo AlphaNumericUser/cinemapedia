@@ -40,6 +40,10 @@ NOTE: This is where you will place the API KEY provided by The Movie DB so that 
 
 4. Enter your API KEY.
 
+<p>
+    <img src="https://i.imgur.com/BcM9TH6.png" width="900"/ hspace="6">
+</p>
+
 ## Contributing
 
 Contributions are welcome! If you have any ideas, suggestions, or improvements, feel free to open an issue or submit a pull request.
