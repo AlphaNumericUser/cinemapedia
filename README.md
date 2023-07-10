@@ -44,7 +44,9 @@ NOTE: This is where you will place the API KEY provided by The Movie DB so that 
     <img src="https://i.imgur.com/BcM9TH6.png" width="900"/ hspace="6">
 </p>
 
-5. Everything is ready now, you can enjoy the app.
+5. Build and run the project on your desired device or simulator.
+
+6. Everything is ready now, you can enjoy the app.
 
 ## Contributing
 
