@@ -32,6 +32,12 @@ To use this Flutter project, follow these steps:
 
 3. Copy the .env.template file and rename it to .env.
 NOTE: This is where you will place the API KEY provided by The Movie DB so that you can use their API. It is necessary to create an account on their website to obtain the API KEY and use their API. You can create your account at the following link.([The Movie DB](https://www.themoviedb.org/)).
+
+<p>
+    <img src="https://i.imgur.com/cYpxBHU.jpg" width="900"/ hspace="6">
+    <img src="https://i.imgur.com/rONPYew.jpg" width="900"/ hspace="6"> 
+</p>
+
 4. Enter your API KEY.
 
 ## Contributing
