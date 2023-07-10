@@ -48,10 +48,11 @@ NOTE: This is where you will place the API KEY provided by The Movie DB so that 
 
 ## Contributing
 
+This project is part of the Flutter course by instructor Fernando Herrera available on Udemy. Thank you very much for teaching me how to do all of this.
+
 Contributions are welcome! If you have any ideas, suggestions, or improvements, feel free to open an issue or submit a pull request.
 
 ## License
 This project is licensed under the MIT License.
-
 
 Feel free to customize the content according to your specific project and requirements.
